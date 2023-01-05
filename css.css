@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: normal;
+    align-content: normal;
+}
+
+.frame {
+    margin: 30px auto auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    position: relative;
+}
+
+.sim{
+    position: absolute;
+    font-size: 20px;
+}
+
+.nao{
+    float: right;
+    position: relative;
+    font-size: 20px;
+}
